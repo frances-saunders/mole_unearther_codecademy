@@ -1,3 +1,5 @@
+/*This project fulfills all the reqs for "Mole Unearther" proejct in Codecademy*/
+
 class EndScene extends Phaser.Scene {
 	constructor() {
 		super({ key: 'EndScene' });
