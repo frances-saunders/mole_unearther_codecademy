@@ -1,3 +1,5 @@
+/*This project fulfills all the reqs for "Mole Unearther" proejct in Codecademy*/
+
 const config = {
 	type: Phaser.AUTO,
 	width: 480,
