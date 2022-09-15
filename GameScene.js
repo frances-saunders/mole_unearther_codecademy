@@ -1,3 +1,5 @@
+/*This project fulfills all the reqs for "Mole Unearther" proejct in Codecademy*/
+
 let timeLeft = 30;
 let score = 0;
 let isPaused = false;
